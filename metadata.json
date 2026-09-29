@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Youth Loan Portal",
+  "description": "Government of Pakistan Ministry of Finance - Pakistan Youth Loan Portal application portal for SME, startup, and youth financial empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
